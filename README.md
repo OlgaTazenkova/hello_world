@@ -1,2 +1,5 @@
 # hello_world
-Just another repository
+
+Hello, Eugene Konstantinovich!
+
+What's up? I'm good! I'm doing my homework.
